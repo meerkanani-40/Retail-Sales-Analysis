@@ -32,3 +32,7 @@ SHOW TABLES;
 DESCRIBE Customers;
 DESCRIBE Products;
 DESCRIBE Orders;
+
+SELECT * FROM Customers;
+SELECT * FROM Orders;
+SELECT * FROM Products;
